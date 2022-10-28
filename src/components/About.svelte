@@ -6,7 +6,7 @@
 <section>
   <div class="container__about" id="About">
     <img width={180} height={123} src={frank} alt="" />
-    <p class="header--small">Hi, I'm {name}</p>
+    <p class="header--small">Hi, I'm Renell</p>
     <p class="header--big">WELCOME TO MY PORTFOLIO</p>
   </div>
 </section>
